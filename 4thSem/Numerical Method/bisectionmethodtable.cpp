@@ -5,7 +5,7 @@ using namespace std;
 
 // Define the function for which the root is to be found
 double f(double x) {
-    return x * x - 4; // Example: f(x) = x^2 - 4
+    return x * x - 4; // Question: f(x) = x^2 - 4
 }
 
 int main() {
